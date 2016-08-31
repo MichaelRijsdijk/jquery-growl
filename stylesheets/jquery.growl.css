@@ -65,13 +65,10 @@
     color: #FFF;
     background: #C0392B; }
   .growl.growl-notice {
-    color: #FFF;
+    color: #000;
     background: #2ECC71; }
   .growl.growl-warning {
     color: #FFF;
-    background: #F39C12; }
-  .growl.growl-custom {
-    color: #000;
     background: #F39C12; }
   .growl .growl-close {
     cursor: pointer;
