@@ -70,6 +70,9 @@
   .growl.growl-warning {
     color: #FFF;
     background: #F39C12; }
+  .growl.growl-custom {
+    color: #000;
+    background: #F39C12; }
   .growl .growl-close {
     cursor: pointer;
     float: right;
